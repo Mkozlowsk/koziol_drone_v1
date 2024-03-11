@@ -1,0 +1,3 @@
+../Src/MainDev.c:28:6:MainDev_Init	1
+../Src/MainDev.c:39:6:MainDev_DeInit	1
+../Src/MainDev.c:50:6:MainDev_MainLoopProc	1

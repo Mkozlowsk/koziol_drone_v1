@@ -1,0 +1,17 @@
+C:/Users/panba/Documents/koziol_drone_v1/submodules/STM32CubeF4/Drivers/CMSIS/Include/core_cm4.h:1814:22:__NVIC_SetPriority	2
+C:/Users/panba/Documents/koziol_drone_v1/submodules/STM32CubeF4/Drivers/CMSIS/Include/core_cm4.h:2022:26:SysTick_Config	2
+C:/Users/panba/Documents/koziol_drone_v1/submodules/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:2929:22:LL_RCC_HSE_EnableBypass	1
+C:/Users/panba/Documents/koziol_drone_v1/submodules/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:2949:22:LL_RCC_HSE_Enable	1
+C:/Users/panba/Documents/koziol_drone_v1/submodules/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:2969:26:LL_RCC_HSE_IsReady	1
+C:/Users/panba/Documents/koziol_drone_v1/submodules/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:3188:22:LL_RCC_SetSysClkSource	1
+C:/Users/panba/Documents/koziol_drone_v1/submodules/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:3204:26:LL_RCC_GetSysClkSource	1
+C:/Users/panba/Documents/koziol_drone_v1/submodules/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:3224:22:LL_RCC_SetAHBPrescaler	1
+C:/Users/panba/Documents/koziol_drone_v1/submodules/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:3240:22:LL_RCC_SetAPB1Prescaler	1
+C:/Users/panba/Documents/koziol_drone_v1/submodules/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:3256:22:LL_RCC_SetAPB2Prescaler	1
+C:/Users/panba/Documents/koziol_drone_v1/submodules/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:4184:22:LL_RCC_PLL_Enable	1
+C:/Users/panba/Documents/koziol_drone_v1/submodules/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:4205:26:LL_RCC_PLL_IsReady	1
+C:/Users/panba/Documents/koziol_drone_v1/submodules/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:4304:22:LL_RCC_PLL_ConfigDomain_SYS	1
+C:/Users/panba/Documents/koziol_drone_v1/submodules/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_system.h:1543:22:LL_FLASH_SetLatency	1
+../Src/main.c:30:5:main	1
+../Src/main.c:62:6:SystemClock_Config	4
+../Src/main.c:105:6:Error_Handler	1
