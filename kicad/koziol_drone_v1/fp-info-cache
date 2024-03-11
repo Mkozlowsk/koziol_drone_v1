@@ -1,4 +1,4 @@
-23048001902845853
+23049712099629966
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -94415,6 +94415,13 @@ NRF24L01
 0
 21
 21
+koziol_drone_footprints
+RFX2401C
+
+
+0
+17
+17
 koziol_drone_footprints
 STM32F411VET6
 
