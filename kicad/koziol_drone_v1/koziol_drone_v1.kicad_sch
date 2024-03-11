@@ -1,0 +1,313 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "851f7638-7e3f-4a0b-8564-e284f39c023a")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 25.4 25.4)
+		(size 38.1 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "001ec01e-0846-4c13-b110-92c965ff1c10")
+		(property "Sheetname" "STM32F411VET6"
+			(at 25.4 24.6884 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "STM32F411VET6.kicad_sch"
+			(at 25.4 64.0846 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "koziol_drone_v1"
+				(path "/851f7638-7e3f-4a0b-8564-e284f39c023a"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 25.4)
+		(size 25.4 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4439f39c-dd13-4f41-9d88-18d00bf715ed")
+		(property "Sheetname" "MPU6050"
+			(at 76.2 24.6884 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MPU6050.kicad_sch"
+			(at 76.2 51.3846 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "FSYNC" input
+			(at 76.2 27.94 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "84af7258-f0ee-43d3-acc3-e40bbb81464a")
+		)
+		(pin "SDA" input
+			(at 76.2 45.72 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "fe5a8e8a-aade-47d3-84b6-315aa133de66")
+		)
+		(pin "SCL" input
+			(at 76.2 48.26 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "5d29d1c0-e12f-4788-a8bf-9009a0ba63d3")
+		)
+		(pin "INT" input
+			(at 76.2 30.48 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "346436cc-6064-4ed0-9657-16438e5bfe10")
+		)
+		(instances
+			(project "koziol_drone_v1"
+				(path "/851f7638-7e3f-4a0b-8564-e284f39c023a"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 114.3 25.4)
+		(size 25.4 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "49334e07-6447-4fca-b8fe-36a391c34fc9")
+		(property "Sheetname" "HMC5883L"
+			(at 114.3 24.6884 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "HMC5883L.kicad_sch"
+			(at 114.3 51.3846 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SDA" input
+			(at 114.3 45.72 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "34ab9dc7-d1d7-4516-803b-6aaeb36da7b7")
+		)
+		(pin "DRDY" input
+			(at 114.3 27.94 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "dae17dfb-08d7-44ed-9c85-b765d775b11f")
+		)
+		(pin "SCL" input
+			(at 114.3 48.26 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "307b39b0-96a9-41c9-ae37-9fb5f59a762d")
+		)
+		(instances
+			(project "koziol_drone_v1"
+				(path "/851f7638-7e3f-4a0b-8564-e284f39c023a"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 152.4 25.4)
+		(size 25.4 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "958eb3f7-c06e-4762-9fe3-16565e4a1f1e")
+		(property "Sheetname" "BMP388"
+			(at 152.4 24.6884 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BMP388.kicad_sch"
+			(at 152.4 51.3846 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SDA" input
+			(at 152.4 45.72 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "705af1de-e3de-40f9-af8b-c1961750f3b7")
+		)
+		(pin "SCL" input
+			(at 152.4 48.26 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "e25ffe4e-b7ce-4762-94ed-df3b253eb1d7")
+		)
+		(pin "INT" input
+			(at 152.4 27.94 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "785c33bb-4f1f-40af-b3f7-1eedbbd0bbe3")
+		)
+		(instances
+			(project "koziol_drone_v1"
+				(path "/851f7638-7e3f-4a0b-8564-e284f39c023a"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 190.5 25.4)
+		(size 38.1 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "be6e0983-7d35-4e64-9b23-54d05a91e862")
+		(property "Sheetname" "NRF24l01"
+			(at 190.5 24.6884 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "NRF24l01.kicad_sch"
+			(at 190.5 64.0846 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "koziol_drone_v1"
+				(path "/851f7638-7e3f-4a0b-8564-e284f39c023a"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
