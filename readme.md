@@ -10,6 +10,7 @@ Hobby FPV drone basing on a STM32F411vet6 uC. Still in progress.
 - 4 BLDC rotors drived by ESCs
 
 ### Technologies and Tools
+- **C**
 - **KiCad**  
 - **CubeIDE**
 - **STM32F411**
