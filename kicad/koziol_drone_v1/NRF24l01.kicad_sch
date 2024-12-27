@@ -1316,12 +1316,13 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "RF Front End 2.4GHz ~ 2.5GHz 802.15.4, Zigbee® 16-QFN (3x3)"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify bottom)
 					(hide yes)
 				)
 			)
@@ -1336,16 +1337,6 @@
 				)
 			)
 			(property "MOUSER-PURCHASE-URL" "https://snapeda.com/shop?store=Mouser&id=556493"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "DESCRIPTION" "RF Front End 2.4GHz ~ 2.5GHz 802.15.4, Zigbee® 16-QFN (3x3)"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3381,6 +3372,28 @@
 			(type default)
 		)
 		(uuid "fea1aeec-fdaf-4a5a-b661-dcb7ef15d8a2")
+	)
+	(text "NRF24I01"
+		(exclude_from_sim no)
+		(at 186.182 189.992 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "2e8396cc-fc44-44f7-a648-439bcbe24aed")
+	)
+	(text "RF comunnication with high range addition."
+		(exclude_from_sim no)
+		(at 177.8 170.18 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "98fabe2b-f27e-43cd-a94a-2de19040e5e9")
 	)
 	(text "C13 I C14 MUSZA MATCHOWAC LOAD CAPACITANCE KRYSZTAŁU"
 		(exclude_from_sim no)

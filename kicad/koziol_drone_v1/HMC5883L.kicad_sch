@@ -1215,15 +1215,26 @@
 		)
 		(uuid "f27c7927-8227-42c2-9ea2-1a8f933cf7a3")
 	)
-	(text "WYMAGANY NISKI ESR KONDENSATOROW C5 I C6 (<200 OHM)"
+	(text "Magnetometer\n\nNEEDED LOW CAPACITOR ESR C5 I C6 (<200 OHM)"
 		(exclude_from_sim no)
-		(at 101.346 88.646 0)
+		(at 90.932 112.014 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 2.54 2.54)
 			)
+			(justify left)
 		)
 		(uuid "877f0ed5-05cc-490b-887d-b3189c3941d0")
+	)
+	(text "HMC588L"
+		(exclude_from_sim no)
+		(at 107.696 127.762 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "af59faba-b250-43b1-b425-2b4190389357")
 	)
 	(hierarchical_label "SCL"
 		(shape input)

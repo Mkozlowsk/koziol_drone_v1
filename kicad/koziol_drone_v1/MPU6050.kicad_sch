@@ -1413,6 +1413,26 @@
 		)
 		(uuid "f3972e19-e066-491d-89f1-11f177aa75db")
 	)
+	(text "Accelerometer and gyroscope"
+		(exclude_from_sim no)
+		(at 119.634 107.696 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "0768a3e4-828a-41b5-8690-6e1ce94cbba7")
+	)
+	(text "MPU6050"
+		(exclude_from_sim no)
+		(at 108.458 128.016 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "64339bde-c082-4cd0-b473-88af64b5d88a")
+	)
 	(hierarchical_label "SCL"
 		(shape input)
 		(at 67.31 59.69 180)

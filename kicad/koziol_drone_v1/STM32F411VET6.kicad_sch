@@ -2380,6 +2380,26 @@
 		)
 		(uuid "f27aea16-4d88-4633-b6ee-61690e9ca043")
 	)
+	(text "Microcontroller and additional components"
+		(exclude_from_sim no)
+		(at 221.234 170.18 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "9e77ae5b-fc02-4000-9d9f-cd4c3af31cd4")
+	)
+	(text "stm32f411vet6"
+		(exclude_from_sim no)
+		(at 200.406 189.992 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "fc8f6bfb-14eb-4420-b6f1-b94f77f6c5ae")
+	)
 	(label "INT1"
 		(at 78.74 125.73 0)
 		(fields_autoplaced yes)

@@ -985,6 +985,28 @@
 		)
 		(uuid "ea267d46-5d29-47fb-a051-0e296c374be4")
 	)
+	(text "Barometer"
+		(exclude_from_sim no)
+		(at 91.186 107.442 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "7366668b-2818-45fc-831d-57d95053918d")
+	)
+	(text "BMP388"
+		(exclude_from_sim no)
+		(at 99.06 127.762 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "c4b72d1a-1d2f-4646-b672-bba78e794052")
+	)
 	(hierarchical_label "INT"
 		(shape input)
 		(at 102.87 55.88 0)
